@@ -7,13 +7,7 @@ PIN-based authentication, cash withdrawal, deposit, fund transfer,
 balance enquiry, and PIN management — built entirely using Java OOP
 principles, Swing GUI, and a layered MVC architecture.
 
-Team Members:-
-Palak 590013843 |
-Bhavya Shree 590014888 |
-Ashvika Singh 590014516 |
-Suzal Sahrawat 590015312 |
-Girdhar Manchanda 590012105 |
-Sajan Deol 590013805
+
 
 ---
 
@@ -74,13 +68,4 @@ java -cp out ui.MainDashboard
 
 ---
 
-## Demo Accounts
 
-| Name | Account ID | PIN |
-|---|---|---|
-| Palak | ACC001 | 1111 |
-| Bhavya Shree | ACC002 | 2222 |
-| Ashvika Singh | ACC003 | 3333 |
-| Suzal Sahrawat | ACC004 | 4444 |
-| Girdhar Manchanda | ACC005 | 5555 |
-| Sajan Deol | ACC006 | 6666 |
